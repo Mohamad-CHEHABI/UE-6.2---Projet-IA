@@ -1,5 +1,5 @@
 # ignore .jpg files
 *.jpg
 
-# ignore DS_Store files
+# ignore DS_Store files in all directories
 **/.DS_Store
