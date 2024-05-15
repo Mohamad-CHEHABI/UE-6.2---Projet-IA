@@ -89,4 +89,6 @@ public class retrieveImages
         {
             byte[] hash = sha256.ComputeHash(data);
             return BitConverter.ToString(hash).Replace("-", String.Empty);
-      
+        }
+    }
+}
