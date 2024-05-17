@@ -1,0 +1,8 @@
+Bicycle
+Bus
+Car
+Motor scooter
+Motorbike
+Pedestrian
+Scooter
+Truck

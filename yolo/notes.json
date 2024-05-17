@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Bicycle"
+    },
+    {
+      "id": 1,
+      "name": "Bus"
+    },
+    {
+      "id": 2,
+      "name": "Car"
+    },
+    {
+      "id": 3,
+      "name": "Motor scooter"
+    },
+    {
+      "id": 4,
+      "name": "Motorbike"
+    },
+    {
+      "id": 5,
+      "name": "Pedestrian"
+    },
+    {
+      "id": 6,
+      "name": "Scooter"
+    },
+    {
+      "id": 7,
+      "name": "Truck"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

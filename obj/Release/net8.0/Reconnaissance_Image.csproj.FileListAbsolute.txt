@@ -1,0 +1,15 @@
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/bin/Release/net8.0/Reconnaissance_Image
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/bin/Release/net8.0/Reconnaissance_Image.deps.json
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/bin/Release/net8.0/Reconnaissance_Image.runtimeconfig.json
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/bin/Release/net8.0/Reconnaissance_Image.dll
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/bin/Release/net8.0/Reconnaissance_Image.pdb
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/obj/Release/net8.0/Reconnaissance_Image.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/obj/Release/net8.0/Reconnaissance_Image.AssemblyInfoInputs.cache
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/obj/Release/net8.0/Reconnaissance_Image.AssemblyInfo.cs
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/obj/Release/net8.0/Reconnaissance_Image.csproj.CoreCompileInputs.cache
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/obj/Release/net8.0/Reconnaissance_Image.sourcelink.json
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/obj/Release/net8.0/Reconnaissance_Image.dll
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/obj/Release/net8.0/refint/Reconnaissance_Image.dll
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/obj/Release/net8.0/Reconnaissance_Image.pdb
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/obj/Release/net8.0/Reconnaissance_Image.genruntimeconfig.cache
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/obj/Release/net8.0/ref/Reconnaissance_Image.dll
