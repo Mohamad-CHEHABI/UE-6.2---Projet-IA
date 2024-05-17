@@ -24,8 +24,17 @@ docker run -it --rm reconnaissance_image
 
 ## Utilisation
 
-Pour récupérer les données de la caméra, utilisez la commande suivante :
+Il suffit d'exécuter l'image Docker
+
+### Fichier Principal: Program.cs, il appelle la méthode qui va être exécuter lors d'exécution de l'application.
+
+#### Pour récupérer les données de la caméra:
+
+- Par défault Program.cs appelle la méthode retrieveCameraImages de fichier retrieveImages.
+
+- Si vous avez besoin de changer le nombre d'images à télécharger, vous pouvez modifier le variable imageCount dans la méthode retrieveCameraImages.
 
 
-Pour récupérer les données labellisées à partir d'un fichier exporté, utilisez la commande suivante :
+#### Pour récupérer les données labellisées à partir d'un fichier exporté :
 
+- Modifier Program.cs pour appeller la méthode RetrieveYoloImages de fichier retrieveImages.
