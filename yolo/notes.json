@@ -14,18 +14,22 @@
     },
     {
       "id": 3,
-      "name": "Motorbike"
+      "name": "Motor scooter"
     },
     {
       "id": 4,
-      "name": "Pedestrian"
+      "name": "Motorbike"
     },
     {
       "id": 5,
-      "name": "Scooter"
+      "name": "Pedestrian"
     },
     {
       "id": 6,
+      "name": "Scooter"
+    },
+    {
+      "id": 7,
       "name": "Truck"
     }
   ],
