@@ -1,0 +1,5 @@
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/bin/Release/net8.0/publish/RetrieveCameraImages
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/bin/Release/net8.0/publish/RetrieveCameraImages.dll
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/bin/Release/net8.0/publish/RetrieveCameraImages.deps.json
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/bin/Release/net8.0/publish/RetrieveCameraImages.runtimeconfig.json
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/bin/Release/net8.0/publish/RetrieveCameraImages.pdb

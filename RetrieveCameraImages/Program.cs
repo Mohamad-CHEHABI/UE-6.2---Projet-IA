@@ -2,7 +2,6 @@
 {
     static async Task Main(string[] args)
     {
-        await retrieveImages.RetrieveCameraImages();
-    
+        await CameraImageRetriever.RetrieveCameraImages();
     }
 }

@@ -1,15 +1,16 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build-env
 WORKDIR /App
 
-# Copy everything
-COPY . ./
-# Restore as distinct layers
+# Copier csproj et restaurer en tant que couches distinctes
+COPY *.csproj ./
 RUN dotnet restore
-# Build and publish a release
+
+# Copier tout le reste et construire
+COPY . ./
 RUN dotnet publish -c Release -o out
 
-# Build runtime image
+# Générer l'image de runtime
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /App
 COPY --from=build-env /App/out .
-ENTRYPOINT ["dotnet", "Reconnaissance_Image.dll"]
+ENTRYPOINT ["dotnet", "RetrieveCameraImages.dll"]

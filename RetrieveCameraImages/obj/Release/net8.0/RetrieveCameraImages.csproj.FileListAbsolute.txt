@@ -1,0 +1,15 @@
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/bin/Release/net8.0/RetrieveCameraImages
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/bin/Release/net8.0/RetrieveCameraImages.deps.json
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/bin/Release/net8.0/RetrieveCameraImages.runtimeconfig.json
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/bin/Release/net8.0/RetrieveCameraImages.dll
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/bin/Release/net8.0/RetrieveCameraImages.pdb
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/obj/Release/net8.0/RetrieveCameraImages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/obj/Release/net8.0/RetrieveCameraImages.AssemblyInfoInputs.cache
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/obj/Release/net8.0/RetrieveCameraImages.AssemblyInfo.cs
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/obj/Release/net8.0/RetrieveCameraImages.csproj.CoreCompileInputs.cache
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/obj/Release/net8.0/RetrieveCameraImages.sourcelink.json
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/obj/Release/net8.0/RetrieveCameraImages.dll
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/obj/Release/net8.0/refint/RetrieveCameraImages.dll
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/obj/Release/net8.0/RetrieveCameraImages.pdb
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/obj/Release/net8.0/RetrieveCameraImages.genruntimeconfig.cache
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/RetrieveCameraImages/obj/Release/net8.0/ref/RetrieveCameraImages.dll
