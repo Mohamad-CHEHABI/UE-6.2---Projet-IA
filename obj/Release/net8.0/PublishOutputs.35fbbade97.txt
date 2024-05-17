@@ -1,0 +1,5 @@
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/bin/Release/net8.0/publish/Reconnaissance_Image
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/bin/Release/net8.0/publish/Reconnaissance_Image.dll
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/bin/Release/net8.0/publish/Reconnaissance_Image.deps.json
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/bin/Release/net8.0/publish/Reconnaissance_Image.runtimeconfig.json
+/Users/mohamad/Documents/CESI/3eme annee/Reconnaissance_Image/bin/Release/net8.0/publish/Reconnaissance_Image.pdb
