@@ -15,6 +15,8 @@ Ce projet utilise l'Intelligence Artificielle dans un contexte de mobilité et d
 
 Pour installer et exécuter ce projet, vous aurez besoin de Docker. Si Docker n'est pas installé sur votre machine, vous pouvez le télécharger et l'installer à partir de [ce lien](https://docs.docker.com/get-docker/).
 
+En utiliser Visual Studio Code, il faut installer les extensions Docker et C# Dev Kit
+
 Une fois Docker installé, vous pouvez construire et exécuter l'image Docker avec les commandes suivantes :
 
 ```bash
@@ -30,11 +32,11 @@ Il suffit d'exécuter l'image Docker
 
 #### Pour récupérer les données de la caméra:
 
-- Par défault Program.cs appelle la méthode retrieveCameraImages de fichier retrieveImages.
+- Par défault Program.cs appele la méthode retrieveCameraImages de fichier retrieveImages.
 
 - Si vous avez besoin de changer le nombre d'images à télécharger, vous pouvez modifier le variable imageCount dans la méthode retrieveCameraImages.
 
 
-#### Pour récupérer les données labellisées à partir d'un fichier exporté :
+#### Pour récupérer les données labellisées à partir d'un fichier exporté (Yolo) :
 
-- Modifier Program.cs pour appeller la méthode RetrieveYoloImages de fichier retrieveImages.
+- Modifier Program.cs pour appeler la méthode RetrieveYoloImages de fichier retrieveImages.
