@@ -1,5 +1,11 @@
-# ignore .jpg files
+# ignorer les fichiers .jpg
 *.jpg
 
-# ignore DS_Store files in all directories
+# ignorer les fichiers DS_Store dans tous les répertoires
 **/.DS_Store
+
+# ignorer les répertoires obj
+**/obj/
+
+# ignorer les répertoires bin
+**/bin/
