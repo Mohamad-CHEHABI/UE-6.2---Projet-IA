@@ -4,27 +4,13 @@
 
 - Docker installé sur votre machine
 - Connaissance de base en C#
+- Git installé sur votre machine
 
 ## Structure du Projet
 
 Le projet est structuré comme suit :
 
-- `Program.cs` : Le fichier principal qui appelle la méthode à exécuter lors de l'exécution de l'application.
-- `retrieveImages.cs` : Ce fichier contient les méthodes pour récupérer les images de la caméra ou les données labellisées à partir d'un fichier exporté.
-
-## Comment exécuter le projet
-
-1. Construire l'image Docker avec la commande suivante :
-```bash
-docker build -t reconnaissance_image .
-```
-
-2. Exécuter l'image Docker avec la commande suivante :
-```bash
-docker run -it --rm reconnaissance_image
-```
-
-## Comment modifier le comportement du projet
-- Pour changer le nombre d'images à télécharger, vous pouvez modifier la variable `imageCount` dans la méthode `retrieveCameraImages` du fichier `retrieveImages.cs`.
-
-- Pour récupérer les données labellisées à partir d'un fichier exporté, modifiez `Program.cs` pour appeler la méthode `RetrieveYoloImages` du fichier `retrieveImages.cs`.
+- `.gitignore` : Ce fichier spécifie les fichiers et dossiers que Git doit ignorer.Ce fichier spécifie les fichiers et dossiers que Git doit ignorer.
+- `README.md` : Ce fichier contient les instructions d'installation et d'utilisation du projet.
+- `Technical_documentation.md`: Ce fichier contient la documentation technique du projet.
+- `RetrieveCameraImages`: Ce dossier con
