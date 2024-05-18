@@ -15,35 +15,50 @@ Ce projet utilise l'Intelligence Artificielle dans un contexte de mobilité et d
 
 Pour installer et exécuter ce projet, vous aurez besoin de Docker. Si Docker n'est pas installé sur votre machine, vous pouvez le télécharger et l'installer à partir de [ce lien](https://docs.docker.com/get-docker/).
 
-En utiliser Visual Studio Code, il faut installer les extensions Docker et C# Dev Kit.
-
 ## Utilisation
 
 #### Récupération des images depuis la caméra:
 
-- Naviguez jusqu'au dossier RetrieveCameraImages
+- Naviguez jusqu'à la racine du projet
 
 ```bash
-cd/RetrieveCameraImages
+cd UE-6.2---Projet-IA
 ```
 
-- Construisez et exécuter l'image Docker avec les commandes suivantes :
+- Construisez l'image Docker avec la commandes suivante :
 
 ```bash
-docker build -t camera_image .
-docker run -it  camera_image  
+docker build -t camera_image ./RetrieveCameraImages
+```
+
+- Lancez un conteneur Docker avec la commande suivante :
+
+```bash
+# Windows
+docker run -d --rm -v .\images:/App/image --name camera_container camera_image 
+
+# Unix
+docker run -d --rm -v ./images:/App/image --name camera_container camera_image 
 ```
 
 #### Récupération des images labellisées à partir d'un fichier exporté (Yolo) :
 
-- Naviguez jusqu'au dossier RetrieveYoloImages
+- Naviguez jusqu'à la racine du projet
+
+- Placez le dossier exporté (unzippé) dans le dossier RetrieveYoloImages et renommez-le en `yolo`
+
+- Construisez l'image Docker avec la commandes suivante :
 
 ```bash
-cd/RetrieveYoloImages
+docker build -t yolo_image ./RetrieveYoloImages
 ```
-- Construisez et exécuter l'image Docker avec les commandes suivantes :
+
+- Lancez un conteneur Docker avec la commande suivante :
 
 ```bash
-docker build -t yolo_image .
-docker run -it yolo_image  
+# Windows
+docker run -d --rm -v .\RetrieveYoloImages\yolo:/App/yolo --name yolo_container yolo_image
+
+# Unix
+docker run -d --rm -v ./RetrieveYoloImages/yolo:/App/yolo --name yolo_container yolo_image
 ```

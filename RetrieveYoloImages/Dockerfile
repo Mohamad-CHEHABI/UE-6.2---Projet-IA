@@ -7,10 +7,6 @@ RUN dotnet restore
 
 # Copier tout le reste et construire
 COPY . ./
-
-COPY yolo/labels /App/yolo/labels
-COPY yolo/images /App/yolo/images
-
 RUN dotnet publish -c Release -o out
 
 # Générer l'image de runtime
